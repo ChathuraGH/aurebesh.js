@@ -1,3 +1,4 @@
+// ADD OPTION TO ENCODE CUSTOM CODE(PLEASE).
 function aurebesh(alphabet) {
   var code = 'A=\'\',B=!A+A,C=!B+A,D=A+{},E=B[A++],' +
     'F=B[G=A],H=++G+A,I=D[G+H],B[I+=D[A]+(B.C+D)[A]' +
